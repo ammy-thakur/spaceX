@@ -1,12 +1,16 @@
 # SETUP 
 
-1. Clone repo from "https://github.com/ammy-thakur/spaceX"
-2. Now open terminal and change directory to spaceX project.
-3. Checkout to master branch by command "git checkout master".
-4. Install node modules by command "npm install".
-5. Run project by command "npm start".
+# Clone this repository
+git clone "https://github.com/ammy-thakur/spaceX"
 
+# Go to your project directory by terminal
+cd spaceX
 
+# Checkout to the master branch 
+git checkout master
 
+# Install node-modules
+npm install
 
-
+# Run the project
+npm start
