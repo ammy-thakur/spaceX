@@ -6,10 +6,10 @@ body{
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ddd;
 }
 .color-blue{color: rgb(10, 10, 119);}
 .wrapper{
-    background-color: #ddd;
     padding: 15px;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -80,6 +80,7 @@ body{
             background-color: #ddd;
             display: flex;
             justify-content: center;
+            aspect-ratio: 1/1;
             img{width: 100%}
           }
           p{margin: 10px 0}
